@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class MovingMagnet: Magnet
+public class MovingParticle : Particle
 {
     public float mass = 1.0f;
     public Rigidbody rb;

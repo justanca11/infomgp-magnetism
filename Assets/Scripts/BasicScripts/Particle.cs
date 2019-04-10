@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class Magnet : MonoBehaviour
+public class Particle : MonoBehaviour
 {
     public float charge = 1.0f;
 
